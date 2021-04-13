@@ -45,11 +45,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
    ┠≽ *${prefix}othermenu* (𝑀𝑒𝑛𝑢 𝐷𝑒 𝑂𝑡𝑟𝑜𝑠)
    ╿ *${ownerName}*,
    ╰╼≽  © ${botName}
-   *〈 𝐆𝐑𝐔𝐏𝐎𝐒 〉*
-   ┠≽ *Félix bot: https://bit.ly/39tPICH
-   ┠≽ *Mr-Pato 2: https://bit.ly/3wiL04v
-   ┠≽ *Satan bot: https://bit.ly/39v9M7K
-   ╰╼
    
    `
 }
